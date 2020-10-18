@@ -1,0 +1,25 @@
+.DS_Store
+node_modules
+dist/demo.html
+dist/vuejs-clipper.common.js
+dist/vuejs-clipper.common.js.map
+dist/vuejs-clipper.umd.js.map
+dist/vuejs-clipper.umd.min.js.map
+docs
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
